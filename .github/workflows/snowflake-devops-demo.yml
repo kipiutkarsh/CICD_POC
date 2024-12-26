@@ -7,7 +7,7 @@ on:
       - main
     paths:
       - 'migrations/**'
-      - 'migrations1/**'
+      - 'migration1/**'
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
